@@ -52,5 +52,16 @@
         "last_played_at" : "2019/02/01"
       }
     ]
+  },
+  {
+    "first_name" : "Burak",
+    "last_name" : "Otman",
+    "Games" : [
+      {
+        "publish_date" : "2005-01-01",
+        "first_name" : "Candy Crush",
+        "last_played_at" : "2000-01-01"
+      }
+    ]
   }
 ]
