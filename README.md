@@ -56,41 +56,64 @@
 
 
 To get a local copy up and running, follow these steps.
+### Prerequisites
+
+In order to use this project, you need
+
+- Ruby installed in your machine
+- Any integrated terminal like
+  - CMD
+  - Bash
+  - PowerShell
+  - etc
 
 ### Setup
 
 Clone this repository to your desired folder:
 
+for cloning follow this steps
+- go to green `code` button very top left corner of this Repository container
+- copy your `SSH` or `https` file and clone it in your desired folder 
+- or just download `ZIP` file  
+-open your terminal and write this command:
+
 git clone https://github.com/otmanTR/CatalogOfMyThings.git
+
 
 ### Install
 
 Install this project with:
+
+for now you don't need any installation to run project if you already followed [Prerequisites](#prerequisites)
+
+and 
+```
+bundle install
+
+```
 
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
 
-```sh
-  rails server
 ```
---->
+ruby main.rb
+
+```
+
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
 
-```sh
-  bin/rails test test/models/article_test.rb
 ```
---->
+rspec spec
+
+```
+
 
 ### Deployment
 
