@@ -63,5 +63,16 @@
         "last_played_at" : "2000-01-01"
       }
     ]
+  },
+  {
+    "first_name" : "Mladan",
+    "last_name" : "Ilic",
+    "Games" : [
+      {
+        "publish_date" : "1999-11-11",
+        "first_name" : "Candy",
+        "last_played_at" : "1990-10-10"
+      }
+    ]
   }
 ]
